@@ -125,7 +125,6 @@ print("Saved to output.wav")
 * **4. Training from Scratch:**
 ```
 python3 main.ipynb
-
 ```
 <br>
 
@@ -138,3 +137,4 @@ python3 main.ipynb
 - Submit a pull request with a clear description of changes
 - Ensure code follows existing style patterns
 - Update documentation as needed
+
